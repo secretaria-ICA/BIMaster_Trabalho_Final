@@ -5,12 +5,12 @@ Orientador: Felipe Borges.
 
 Trabalho apresentado ao curso BI MASTER como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-Resumo
+* Resumo
 -> O QUE É FLORAIS
 -> APLICAÇÕES DOS ALGORITIMOS GENÉTICOS PARA BIOMEDICINA
 -> OBJETIVO DO TRABALHO
 
-Abstract
+* Abstract
 
 1. Introdução
 -> EXPLICAÇÃO DOS DADOS 
