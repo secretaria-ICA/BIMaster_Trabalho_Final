@@ -1,7 +1,7 @@
-# Título do Trabalho
+# Título do Trabalho (só faltou o título...defina de acordo com os tópicos principais do trabalho: florais e otimização)
 
-#### Aluna: Fernanda Viviani de Paula (https://github.com/fernandaviviani/BIMaster_Trabalho_Final)
-#### Orientador: Felipe Borges (https://github.com/FelipeBorgesC) 
+#### Aluna: [Fernanda Viviani de Paula](https://github.com/fernandaviviani/BIMaster_Trabalho_Final)
+#### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
 
 ---
 
