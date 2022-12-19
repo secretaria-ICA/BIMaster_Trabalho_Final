@@ -70,10 +70,12 @@ Na linha referente a cada floral consta a nota de classificação do mesmo para 
 
 A extração da base de dados e modelagem do Solver foram realizadas em formato de Pasta de Trabalho do Excel e apresenta os campos listados abaixo:
  
-Planilha de Flores:
+Planilha Tabela de Florais:
  
 Planilha com as 38 flores e as sete características emocionais, onde cada floral é mensurado a partir da sua capacidade de resolver cada um dos problemas 
 apresentados em uma escala entre 1 e 5:
+
+<img src="https://github.com/fernandaviviani/BIMaster_Trabalho_Final/blob/main/Tabela%20Florais%20img.PNG"/>
 
  
 Planilha Solver:
