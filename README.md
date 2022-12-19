@@ -135,10 +135,13 @@ A análise dos resultados obtidos revela uma alta acurácia do modelo para resol
 comparadas as flores escolhidas pelo Solver para o prontuário com a eficácia das mesmas de acordo com a literatura especializada em florais de Bach. 
 Inclusive quando os resultados são comparados com a análise técnica  da obra do próprio Edward Bach “ Os outros curadores e outros remédios” que evidencia quais 
 os problemas em que cada flor atua com mais eficácia.
+
 A análise das flores escolhidas pelo Solver mostra que cada uma apresenta uma nota de eficiência entre 4 e 5 para solucionar cada característica emocional, o que 
 representa aproximadamente 80% e 100% de valia.
+
 O valor máximo que a função maximizar pode fornecer para cada prontuário é 50, visto que o modelo é construído a partir de cinco variáveis distintas que podem ter 
 uma eficácia de grau máximo 5.
+
 Nos teste realizados, a função maximizar apresenta resultados entre 35,45 e 45. O que evidencia uma eficácia entre 70,9% e 90%.
 Apesar de uma restrição na quantidade de flores, o modelo pode trabalhar com diferentes tipos de problemas emocionais. Porém, os resultados mostram que testes 
 realizados com menos problemáticas a serem resolvidos, apresentaram uma eficiência com maior acurácia que foi evidenciada pela função maximizar.
@@ -148,17 +151,19 @@ realizados com menos problemáticas a serem resolvidos, apresentaram uma eficiê
 
 A análise evidenciou que o modelo apresenta alta acurácia nos resultados dos prontuários para tratar as setes características emocionais elucidadas na Tabela 
 de Florais.
+
 Ficou evidente a importância de ter como restrição a necessidade de que as cinco flores selecionadas sejam distintas umas das outras, de modo que o modelo não 
 inclua na fórmula a mesma flor mais de uma vez. 
 Convém salientar que prontuários que apresentam muitas características emocionais para serem tratadas apresentam uma acurácia menor daqueles com menos problemáticas 
 envolvidas.
+
 Como o foco do presente estudo está nos Florais de Bach, convém que dados relativos à Solução sejam analisados em conjunto com a literatura sobre esta temática e a 
 prática clínica do terapeuta.
 Como sugestão para trabalhos futuros podemos incluir a adaptação do mesmo modelo para o prontuário de pacientes que apresentam problemas emocionais a partir do 
 tratamento de fitoterapia (com ervas medicinais).
 
 
-Matrícula: 123.456.789
+Matrícula: 202.100.338
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
