@@ -86,8 +86,10 @@ e seus respectivos ID.
 Há também a função maximizar, que mostra a média e eficácia da fórmula apresentada pelo Solver para resolver o quadro do paciente.
 Além disso, foi acrescentada uma função que determina que cada fórmula deve conter apenas flores distintas.
 É importante ressaltar que cada prontuário deve conter cinco flores para garantir a eficácia do mesmo. 
- 
 
+<img src="https://github.com/fernandaviviani/BIMaster_Trabalho_Final/blob/main/SOLVER%20img.PNG"/>
+
+ 
 As questões são: 
 1 – Como esta flor resolve cada uma das sete características emocionais? (Escala de 5 = Muito Eficiente a 1 = Muito Ineficiente)
 5 4 3 2 1
