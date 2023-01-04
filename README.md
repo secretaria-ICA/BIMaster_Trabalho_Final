@@ -1,4 +1,4 @@
-# Otimização de Algorítimos Genéticos para prontuário de Florais de Bach através do Solver
+# Modelo de Otimização para gerar prontuário de Florais de Bach através do Solver
 
 #### Aluna: [Fernanda Viviani de Paula](https://github.com/fernandaviviani/BIMaster_Trabalho_Final)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
