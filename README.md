@@ -164,7 +164,7 @@ tratamento de fitoterapia (com ervas medicinais).
 
 ### 5. Sugestão para Trabalhos Futuros
 
-Existe uma etapa antes de prescrever as flores onde através de algumas perguntas modelo SIM/NÃO o terapeuta consegue fazer uma anamnese com o diagnóstico do paciente. Pode-se fazer um modelo de algorítimo genético no Solver similar ao proposto neste presente trabalho, porém com os sintomas e a pontuação que o paciente teve no questionário. O objetivo serádescobrir o problema emocional que o paciente tem, para então ir para a etapa seguinte de prescrição das flores (que é o modeloque já temos pronto com este trabalho).
+Existe uma etapa antes de prescrever as flores onde através de algumas perguntas modelo SIM/NÃO o terapeuta consegue fazer uma anamnese com o diagnóstico do paciente. Pode-se fazer um modelo de algorítimo genético no Solver similar ao proposto neste presente trabalho, porém com os sintomas e a pontuação que o paciente teve no questionário. O objetivo será descobrir o problema emocional que o paciente tem, para então ir para a etapa seguinte de prescrição das flores (que é o modeloque já temos pronto com este trabalho).
 
 
 Matrícula: 202.100.338
