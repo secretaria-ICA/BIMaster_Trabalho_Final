@@ -1,4 +1,4 @@
-# Título do Trabalho (só faltou o título...defina de acordo com os tópicos principais do trabalho: florais e otimização)
+# Otimização de Algorítimos Genéticos para prontuário de Florais de Bach através do Solver
 
 #### Aluna: [Fernanda Viviani de Paula](https://github.com/fernandaviviani/BIMaster_Trabalho_Final)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
