@@ -1,4 +1,4 @@
-# Modelo_de_Otimizacao_par_Gerar_Prontuario_de_Florais_de_Bach_Atraves_do_Solver
+# Modelo_de_Otimizacao_para_Gerar_Prontuario_de_Florais_de_Bach_Atraves_do_Solver
 
 #### Aluna: [Fernanda Viviani de Paula](https://github.com/fernandaviviani/BIMaster_Trabalho_Final)
 #### Orientador: [Felipe Borges](https://github.com/FelipeBorgesC) 
